@@ -16,6 +16,7 @@ and create img
 python streamToImg.py
 
 
+
 than
 
 open s.sh
